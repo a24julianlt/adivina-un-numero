@@ -1,0 +1,12 @@
+Numero secreto: 2641
+Intento 1: 1234, Aciertos: 0, Coincidencias: 3
+Intento 2: 4321, Aciertos: 1, Coincidencias: 2
+Intento 3: 4356, Aciertos: 0, Coincidencias: 2
+Intento 4: 5621, Aciertos: 2, Coincidencias: 1
+Intento 5: 5631, Aciertos: 2, Coincidencias: 0
+Intento 6: 5612, Aciertos: 1, Coincidencias: 2
+Intento 7: 4631, Aciertos: 2, Coincidencias: 1
+Intento 8: 4651, Aciertos: 2, Coincidencias: 1
+Intento 9: 3625, Aciertos: 1, Coincidencias: 1
+Intento 10: 4632, Aciertos: 1, Coincidencias: 2
+
